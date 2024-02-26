@@ -1,0 +1,7 @@
+깃허브로 협업하기
+
+원격저장소 (git hub)로 협업하기
+나는 변함없고 원격이 변한 경우 : pull & push
+나는 변했고 원격도 변한 경우 : pull request
++ push 권한주기 (collaborator 추가하기)
+
